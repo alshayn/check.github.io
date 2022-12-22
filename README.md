@@ -1,1 +1,1 @@
-# check.github.io
+https://alshayn.github.io/check.github.io/
